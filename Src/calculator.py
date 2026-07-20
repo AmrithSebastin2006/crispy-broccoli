@@ -1,3 +1,3 @@
 def calculator():
-    print("CI")
+    print("Calculator module")
 calculator()

@@ -1,2 +1,2 @@
 def register():
-    print("New Registration")
+    print("Registration 1")
